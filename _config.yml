@@ -20,12 +20,17 @@ author: Decision Intelligence & Solutions
 ###############################################
 
 navbar-links:
+  Analytics: "services/data_analytics"
+  Optimization : "services/optimization"
+  AI / ML: "services/AIML
+  Consulting: "services/Management-consulting"
   Industries: "sectors"
-  Services:
-    - Optimization : "services/optimization"
-    - AI / ML: "services/AIML"
- #   - KPI Tracking: "services/KPItracking" #
-    - Consulting: "services/Management-consulting"
+  
+ #  Services:
+ #    - Optimization : "services/optimization"
+ #    - AI / ML: "services/AIML"
+ #    - KPI Tracking: "services/KPItracking" #
+ #    - Consulting: "services/Management-consulting"
   About Us: "aboutme_v1"  
 
 ################
