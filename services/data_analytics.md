@@ -17,9 +17,7 @@ Diagnostic Analytics includes comparing coexisting trends or movement, uncoverin
 3. **Predictive Analytics** : “What might happen in the future?” - What is the likelihood of a customer making a purchase in the next month? How will changes in market conditions affect future sales? Which employees are at risk of leaving the company in the next year?
 By applying predictive analytics techniques such as machine learning, statistical modeling, and data mining, organizations can gain insights into potential future trends and behaviors, allowing them to make proactive decisions and strategies based on anticipated outcomes.
    
-5. **Prescriptive Analytics** : “What should we do next?” - What is the best pricing strategy to maximize profits while maintaining customer satisfaction? How can we optimize our supply chain to minimize costs and reduce delivery times? Which combination of marketing channels and messaging will most effectively convert leads into customers?
-
-Prescriptive analytics goes beyond predicting future outcomes by providing specific recommendations for action. By leveraging advanced modeling and optimization techniques, organizations can use prescriptive analytics to make data-driven decisions that lead to improved performance and efficiency.
+4. **Prescriptive Analytics** : “What should we do next?” - What is the best pricing strategy to maximize profits while maintaining customer satisfaction? How can we optimize our supply chain to minimize costs and reduce delivery times? Which combination of marketing channels and messaging will most effectively convert leads into customers? Prescriptive analytics goes beyond predicting future outcomes by providing specific recommendations for action. By leveraging advanced modeling and optimization techniques, organizations can use prescriptive analytics to make data-driven decisions that lead to improved performance and efficiency.
 
 Over the years, our team has developed in house deep expertise on data analytics and business integration. With advanced degrees in mathematics, statistics, engineering, and related fields, our object is to provide our clients with cutting-edge solutions.
 
