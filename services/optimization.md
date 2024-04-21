@@ -14,7 +14,7 @@ Our team of experts has extensive experience in developing and implementing opti
     <img src="/assets/img/supply-chain-process-scaled.jpg" width="200" height="200" />
     <figcaption> Supply Chain Optimization. </figcaption>
   </div>
-  <div class="column" style="margin-left: 30px;">
+  <div class="column" style="margin-right: 30px;">
     <img src = "/assets/img/multi-model%20transportation.jpg" width="200" height="200" />
     <figcaption> Multi Modal Transportation Optimisation.</figcaption>
     </div>
@@ -37,7 +37,7 @@ Our team of experts has extensive experience in developing and implementing opti
     <img src="/assets/img/Fleet-Management-Tech.jpg" width="200" height="200" />
     <figcaption> Fleet Management. </figcaption>
   </div>
-  <div class="column" style="margin-left: 30px;">
+  <div class="column" style="margin-right: 30px;">
     <img src="/assets/img/Airline.png" width="200" height="200" />
     <figcaption> Flight Scheduling.</figcaption>
     </div>
