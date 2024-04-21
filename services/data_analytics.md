@@ -32,7 +32,7 @@ As a team of data experts, we gurantee meaningful managerial insights to help bu
      By applying predictive analytics techniques such as machine learning, statistical modeling, and data mining, organizations can gain insights into potential future trends and behaviors, allowing them to make proactive decisions and strategies based on anticipated outcomes.
    
 7. **Prescriptive Analytics** : “What should we do next?”
-8. - What is the best pricing strategy to maximize profits while maintaining customer satisfaction?
+   - What is the best pricing strategy to maximize profits while maintaining customer satisfaction?
    - How can we optimize our supply chain to minimize costs and reduce delivery times?
    - Which combination of marketing channels and messaging will most effectively convert leads into customers?
 
