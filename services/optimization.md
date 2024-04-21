@@ -26,7 +26,7 @@ Our team of experts has extensive experience in developing and implementing opti
     <img src="/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="200" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
-  <div class="column" style="margin-left: 30px;">
+  <div class="column" style="margin-right: 30px;">
     <img src="/assets/img/Inventory-Management-System3-1.jpg" width="200" height="200" />
     <figcaption> Inventory Management System.</figcaption>
     </div>
